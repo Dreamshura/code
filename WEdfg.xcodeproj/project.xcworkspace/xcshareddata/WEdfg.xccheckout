@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>69749E7D-A7C3-47C7-8A47-88FD49BC1868</string>
+	<key>IDESourceControlProjectName</key>
+	<string>WEdfg</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>EB550EDE-7DA9-4174-A66B-AFB8A094E041</key>
+		<string>https://github.com/Dreamshura/code.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>WEdfg.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>EB550EDE-7DA9-4174-A66B-AFB8A094E041</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/Dreamshura/code.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>EB550EDE-7DA9-4174-A66B-AFB8A094E041</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>EB550EDE-7DA9-4174-A66B-AFB8A094E041</string>
+			<key>IDESourceControlWCCName</key>
+			<string>WEdfg</string>
+		</dict>
+	</array>
+</dict>
+</plist>
