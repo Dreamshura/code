@@ -18,7 +18,7 @@
     [super viewDidLoad];
     NSLog(@"开始工作");
     NSLog(@"速度和结构");
-    NSLog(@"速度与激情");
+    NSLog(@"速度与激情6");
 }
 
 - (void)didReceiveMemoryWarning {
