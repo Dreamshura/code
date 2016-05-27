@@ -17,6 +17,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     NSLog(@"开始工作");
+    NSLog(@"速度和结构");
 }
 
 - (void)didReceiveMemoryWarning {
